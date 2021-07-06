@@ -81,7 +81,7 @@ main {
                     }
                     .share {
                         background-color: $desaturated_dark_blue;
-                        background-image: url(/images/icon-share-active.svg);
+                        background-image: url(../images/icon-share-active.svg);
                         @media #{$mq-780-down} {
                             transform: translate(235px, -57px);
                             position: absolute;
@@ -99,7 +99,7 @@ main {
                     border-radius: 20px;
                     border: none;
                     align-self: center;
-                    background-image: url(/images/icon-share.svg);
+                    background-image: url(../images/icon-share.svg);
                     background-repeat: no-repeat;
                     background-position: center;
                     background-color: $light_grayish_blue;
